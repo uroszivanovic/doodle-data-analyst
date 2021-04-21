@@ -5,7 +5,7 @@ In this place you can find my Python data analysis performed on data of Adventur
 ## Prerequisite
 
 Before runing the outcome please install plotnine package for the purpose of using ggplot visualization tool with Python:
-$ pip install plotnine
+* pip install plotnine
 
 ## Files
 
