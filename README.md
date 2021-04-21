@@ -10,7 +10,7 @@ Before runing the outcome please install plotnine package for the purpose of usi
 ## Files
 
 * adventure_works_purchase_orders.csv
-* doodle-data-analysis.ipynb
-* doodle-data-analysis.pdf
+* doodle-data-analyst.ipynb (codes, tables, figures, text, and comments)
+* Adventure Work Cycles Data Analysis.pdf (codes, tables, figures, and text)
 
 
