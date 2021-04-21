@@ -11,6 +11,6 @@ Before runing the outcome please install plotnine package for the purpose of usi
 
 * adventure_works_purchase_orders.csv
 * doodle-data-analyst.ipynb (codes, tables, figures, text, and comments)
-* Adventure Work Cycles Data Analysis.pdf (codes, tables, figures, and text)
+* Presentation.pdf (codes, tables, figures, and text)
 
 
