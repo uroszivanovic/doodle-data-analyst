@@ -1,4 +1,4 @@
-# Doodle - Data Analyst Role
+# Adventure Works Cycles
 
 In this place you can find my Python data analysis performed on data of Adventure Works Cycles (a large wholesaler of bicycles in the US and Europe).
 ## Prerequisite
